@@ -1,0 +1,1 @@
+### Solving practical tasks from the course https://practicum.yandex.ru/go-basics/
